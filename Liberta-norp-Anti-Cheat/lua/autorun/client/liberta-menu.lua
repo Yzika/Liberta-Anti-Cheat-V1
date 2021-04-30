@@ -1,0 +1,4 @@
+-- Toi qui filsteal mon anti cheat
+-- T'es un pd
+-- Viens jouer sur Liberta NORP au lieux de vouloir voler mes codes
+--  Chomeur !

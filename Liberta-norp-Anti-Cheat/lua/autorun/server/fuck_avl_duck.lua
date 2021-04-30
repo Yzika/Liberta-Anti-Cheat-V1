@@ -1,0 +1,3 @@
+-- Ce fichier serre à exclure du serveur l'anti cheat AVL qui est le pire sur le marché
+-- Fait 19929292929 faux positif par seconde ceci est primordiale de l'éradier de la communauté de gmod
+-- Si ce fichier est vide ne vous inquièter pas, nous n'avons pas encore le code et nous le metterons à jour sur la V2
