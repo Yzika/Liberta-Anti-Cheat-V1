@@ -26,7 +26,7 @@ liberta_anti_cheat_config.lib_ban_reason = "[Liberta Anti Cheat] Invalid lua exe
 
 liberta_anti_cheat_config.developermode = false 
 
-liberta_anti_cheat_config.lib_validate_players = true -
+liberta_anti_cheat_config.lib_validate_players = true
 liberta_anti_cheat_config.lib_check_file = true 
 liberta_anti_cheat_config.lib_check_function = true 
 liberta_anti_cheat_config.lib_check_globals = true 
