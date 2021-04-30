@@ -1,4 +1,3 @@
---  Ce code viens entièrement de "anti external" et non fait par moi.
 local function ValidPlayer(ply)
 	return (IsValid(ply) and not ply:IsBot() and not ply:IsTimingOut() and ply:PacketLoss() < 70 and ply:Ping() < 800)
 end
