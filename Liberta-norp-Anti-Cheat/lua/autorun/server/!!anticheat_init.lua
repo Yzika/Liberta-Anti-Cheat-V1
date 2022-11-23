@@ -1,12 +1,8 @@
 // Server code..
-// Cette Anti-Cheat à été build pour Liberta NORP 
-// Yzikaa est pas le fondateur principal de ce fichier.
-// Ceci à été crée de base pour Liberta NORP qui utilisait ULX comme méthode de administration
+// Ceci à été crée de base pour Liberta NORP qui utilisait ULX comme méthode d'administration
 // Une compatibilité [WorldBan], [ServerGuard], [Global Ban], [Moderator] arriveras dans la V2
-// Je me suis inspiré de MAC pour faire ceci
 // Les convars ainsi que les net useless on été retirées
 // Une fonction permettant de detecter les wallhack à été retirée, raison : faisait trop de faux positif 
-// Le prochain drm de la V2 passeras par securegmod que vito54 à crack ainsi que sont obfuscation crack elle aussi
 
 MsgC (Color (0,255,40), [[
 
