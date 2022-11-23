@@ -1,7 +1,7 @@
 liberta_anti_cheat_config = {}
 
 
-liberta_avl_fuck = true -- true is conseiller, vraiment, pour la survie de votre serveur (false pour desactiver)
+liberta_avl_fuck = true -- laisser sur true
 
 
 liberta_anti_cheat_config.discord_webhook = "https://discord.com/api/webhooks"
